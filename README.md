@@ -17,3 +17,6 @@ https://economictimes.indiatimes.com/news/international/us/entertainment/studio-
 This is a recent article speaking on Hayao Miyazaki's response against using AI in art:
 
 https://www.thestatesman.com/entertainment/hayao-miyazaki-reacts-to-ai-generated-ghibli-art-an-insult-to-life-itself-1503413980.html
+
+
+Team Members: Angela Liu, Kaitlyn Li, Anna Poon
